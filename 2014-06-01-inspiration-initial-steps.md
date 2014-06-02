@@ -1,7 +1,7 @@
 Inspiration and Initial Steps
 =============================
 
-My interest in wanting to study Haskell started with [this blog post](http://techblog.realestate.com.au/the-abject-failure-of-weak-typing/).    Despite the inflamatory name, I found myself agreeing with several of the points listed.  What's more, the dynamic-type enthusiasts around the internets did a poor job refuting the arguments in my opinion.  I decided to dig into Haskell with an open mind to see what's the what.  These posts are going to document my steps taken to learn Haskell.
+My interest in wanting to study Haskell started with [this blog post](http://techblog.realestate.com.au/the-abject-failure-of-weak-typing/).    Despite the inflamatory title, I found myself agreeing with several of the points listed.  What's more, the dynamic-type enthusiasts around the internets did a poor job refuting the arguments in my opinion.  I decided to dig into Haskell with an open mind to see what's the what.  These posts are going to document my steps taken to learn Haskell.
 
 ## My Background
 
